@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails application which uses RabbitMQ, JavaScript, and a few
+3rd party APIs to create data dashboards which report iOS app marketplace 
+activity. Its an excuse for me to demonstrate software design and 
+testing around external facing modules, and that Ruby absolutely can 
+participate in the domains of distributed systems and data engineering.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+🚧 This application is currently under construction. 🏗
